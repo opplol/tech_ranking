@@ -1,0 +1,2 @@
+class RawScrap < ApplicationRecord
+end
